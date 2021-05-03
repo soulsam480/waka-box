@@ -1,4 +1,4 @@
-name: Update Gist
+name: Update Gist stats
 
 on:
   push:
