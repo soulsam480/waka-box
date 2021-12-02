@@ -4,9 +4,7 @@
   <p align="center">Update a pinned gist to contain your weekly WakaTime stats</p>
 </p>
 
-
 ---
-
 
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
 
@@ -31,4 +29,4 @@
    - **GH_TOKEN:** The GitHub token generated above.
    - **WAKATIME_API_KEY:** The API key for your WakaTime account.
 
-change
+keep running
